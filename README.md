@@ -1,0 +1,2 @@
+The main point of this project is to show an error message when the input field is empty or the email address is not formatted correctly. The file name of the main page is main.html. 
+email-page.html is created by me (that's why its design is so plain :)))) ) . there you can pass your email address. after clicking on the submit button the main page opens and there you can check if the correct email address is used.
